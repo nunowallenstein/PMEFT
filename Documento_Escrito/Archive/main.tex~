@@ -1,0 +1,110 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Masters/Doctoral Thesis 
+% LaTeX Template
+% Version 2.5 (27/8/17)
+%
+% This template was downloaded from:
+% http://www.LaTeXTemplates.com
+%
+% Version 2.x major modifications by:
+% Vel (vel@latextemplates.com)
+%
+% This template is based on a template by:
+% Steve Gunn (http://users.ecs.soton.ac.uk/srg/softwaretools/document/templates/)
+% Sunil Patel (http://www.sunilpatel.co.uk/thesis-template/)
+%
+% Template license:
+% CC BY-NC-SA 3.0 (http://creativecommons.org/licenses/by-nc-sa/3.0/)
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\input{preamble}
+
+%----------------------------------------------------------------------------------------
+%	TITLE PAGE
+%----------------------------------------------------------------------------------------
+
+\begin{titlepage}
+
+\begin{minipage}[t]{0.4\textwidth}
+\begin{flushleft} 
+\vspace{0pt}
+\hspace{-1cm}
+\includegraphics[scale=0.25]{logo.pdf}
+\end{flushleft}
+\end{minipage}
+\hfill
+\begin{minipage}[t]{0.41\textwidth}
+\begin{flushright} 
+\vspace{0pt}
+\includegraphics[scale=0.08]{Logo-MEFT_Hor.png}
+\end{flushright}
+\end{minipage}
+
+\begin{center}
+
+\vspace*{.06\textheight}
+{\scshape\LARGE \univname\par}\vspace{1.5cm} % University name
+\textsc{\Large Projecto MEFT}\\[0.5cm] % Thesis type
+
+\HRule \\[0.4cm] % Horizontal line
+{\huge \bfseries \ttitle\par}\vspace{0.4cm} % Thesis title
+\HRule \\[1.5cm] % Horizontal line
+ 
+\begin{minipage}[t]{0.4\textwidth}
+\begin{flushleft} \large
+\emph{Author:}\\
+\href{https://en.wikipedia.org/wiki/Ludwig_Boltzmann}{\authorname} % Author name - remove the \href bracket to remove the link
+\end{flushleft}
+\end{minipage}
+\begin{minipage}[t]{0.4\textwidth}
+\begin{flushright} \large
+\emph{Supervisor:} \\
+\href{https://en.wikipedia.org/wiki/Josef_Stefan}{\supname} % Supervisor name - remove the \href bracket to remove the link  
+\end{flushright}
+\end{minipage}\\[3cm]
+ 
+\vfill
+
+\large \textit{Research work performed for the \degreename}\\[0.3cm] % University requirement text
+\textit{at}\\[0.4cm]
+\groupname\\\deptname\\[2cm] % Research group name and department name
+ 
+\vfill
+
+{\small \today}\\[4cm] % Date
+%\includegraphics{Logo} % University/department logo - uncomment to place it
+ 
+\vfill
+\end{center}
+\end{titlepage}
+
+
+%----------------------------------------------------------------------------------------
+%	THESIS CONTENT - CHAPTERS
+%----------------------------------------------------------------------------------------
+
+\pagestyle{review} 
+
+\input{Intro}
+%----------------------------------------------------------------------------------------
+%	SECTION 2
+%----------------------------------------------------------------------------------------
+
+\section{Main argument}
+
+The second law will be explained mechanically by means of of assumption A (which is of course unprovable) that the universe,
+considered as a mechanical system -- or at least a very large part of it which surrounds us -- started from a very improbable state, and is still in an improbable state. Hence, if one takes a smaller system of bodies in the state in which he actually finds them, and suddenly isolates this system from the rest of the world, then the system will initially be in an improbable state, and as long as the system remains isolated it will always proceed toward more probable states. On the other hand, there is a very small probability that the enclosed system is initially in thermal equilibrium, and that while it remains enclosed it moves far enough away from equilibrium that its entropy decrease is noticeable.
+
+The question is not what will be the behaviour of a completely arbitrary system, but rather what will happen to a system existing in the present state of the world. The initial state precedes the later states, so that the conclusion that all points of the //-curve must be maxima is invalid. Hence, it turns out that entropy always increases, temperature and concentration diffferences are always equalized, that the initial value of H is such that during the time of observation it almost always decreases, and that initial and final states are not interchangeable. Assumption A is a comprehensible physical explanation of the peculiarity of the initial state, consistent with the laws of mechanics; or better, it is a unified view point corresponding to these laws, which allows one to predict the type of peculiarity of the initial state in any special case ; for one can never expect that the explanatory principle must itself be explained.
+
+
+%----------------------------------------------------------------------------------------
+%	BIBLIOGRAPHY
+%----------------------------------------------------------------------------------------
+
+\printbibliography[heading=secbib]
+
+%----------------------------------------------------------------------------------------
+
+\end{document}  
