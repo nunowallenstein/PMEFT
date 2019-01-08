@@ -16,5 +16,450 @@
   {}
 \endgroup
 
-\sortlist[entry]{nty/global/}\endsortlist
+\sortlist[entry]{nty/global/}
+  \entry{Alexander1976}{incollection}{}
+    \name{author}{1}{}{%
+      {{hash=ARM}{%
+         family={Alexander},
+         familyi={A\bibinitperiod},
+         given={R\bibnamedelima McN},
+         giveni={R\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Elsevier}%
+    }
+    \strng{namehash}{ARM1}
+    \strng{fullhash}{ARM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{A}
+    \field{sortinithash}{A}
+    \field{booktitle}{Zoology}
+    \field{pages}{493\bibrangedash 504}
+    \field{title}{Mechanics of bipedal locomotion}
+    \field{year}{1976}
+  \endentry
+
+  \entry{runge}{misc}{}
+    \name{author}{2}{}{%
+      {{hash=AGB}{%
+         family={Arfken},
+         familyi={A\bibinitperiod},
+         given={George\bibnamedelima B},
+         giveni={G\bibinitperiod\bibinitdelim B\bibinitperiod},
+      }}%
+      {{hash=WHJ}{%
+         family={Weber},
+         familyi={W\bibinitperiod},
+         given={Hans\bibnamedelima J},
+         giveni={H\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {AAPT}%
+    }
+    \strng{namehash}{AGBWHJ1}
+    \strng{fullhash}{AGBWHJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{A}
+    \field{sortinithash}{A}
+    \field{title}{Mathematical methods for physicists}
+    \field{year}{1999}
+  \endentry
+
+  \entry{Blickhan1989}{article}{}
+    \name{author}{1}{}{%
+      {{hash=BR}{%
+         family={Blickhan},
+         familyi={B\bibinitperiod},
+         given={Reinhard},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Elsevier}%
+    }
+    \strng{namehash}{BR1}
+    \strng{fullhash}{BR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \field{number}{11-12}
+    \field{pages}{1217\bibrangedash 1227}
+    \field{title}{The spring-mass model for running and hopping}
+    \field{volume}{22}
+    \field{journaltitle}{Journal of biomechanics}
+    \field{year}{1989}
+  \endentry
+
+  \entry{Borelli1685}{incollection}{}
+    \name{author}{1}{}{%
+      {{hash=BG}{%
+         family={Borelli},
+         familyi={B\bibinitperiod},
+         given={GA},
+         giveni={G\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{BG1}
+    \strng{fullhash}{BG1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \field{title}{De Motu Animalium, 1680-1}
+    \field{journaltitle}{Bernabo, Rome}
+    \field{year}{1685}
+  \endentry
+
+  \entry{Carver2009}{article}{}
+    \name{author}{3}{}{%
+      {{hash=CSG}{%
+         family={Carver},
+         familyi={C\bibinitperiod},
+         given={Sean\bibnamedelima G},
+         giveni={S\bibinitperiod\bibinitdelim G\bibinitperiod},
+      }}%
+      {{hash=CNJ}{%
+         family={Cowan},
+         familyi={C\bibinitperiod},
+         given={Noah\bibnamedelima J},
+         giveni={N\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=GJM}{%
+         family={Guckenheimer},
+         familyi={G\bibinitperiod},
+         given={John\bibnamedelima M},
+         giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {AIP}%
+    }
+    \strng{namehash}{CSGCNJGJM1}
+    \strng{fullhash}{CSGCNJGJM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \field{number}{2}
+    \field{pages}{026106}
+    \field{title}{Lateral stability of the spring-mass hopper suggests a
+  two-step control strategy for running}
+    \field{volume}{19}
+    \field{journaltitle}{Chaos: An Interdisciplinary Journal of Nonlinear
+  Science}
+    \field{year}{2009}
+  \endentry
+
+  \entry{Cavagna1976}{article}{}
+    \name{author}{3}{}{%
+      {{hash=CGA}{%
+         family={Cavagna},
+         familyi={C\bibinitperiod},
+         given={Giovanni\bibnamedelima A},
+         giveni={G\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=TH}{%
+         family={Thys},
+         familyi={T\bibinitperiod},
+         given={H},
+         giveni={H},
+      }}%
+      {{hash=ZA}{%
+         family={Zamboni},
+         familyi={Z\bibinitperiod},
+         given={A},
+         giveni={A},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Wiley Online Library}%
+    }
+    \strng{namehash}{CGATHZA1}
+    \strng{fullhash}{CGATHZA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \field{number}{3}
+    \field{pages}{639\bibrangedash 657}
+    \field{title}{The sources of external work in level walking and running.}
+    \field{volume}{262}
+    \field{journaltitle}{The Journal of physiology}
+    \field{year}{1976}
+  \endentry
+
+  \entry{Full&Koditchek1999}{article}{}
+    \name{author}{2}{}{%
+      {{hash=FRJ}{%
+         family={Full},
+         familyi={F\bibinitperiod},
+         given={Robert\bibnamedelima J},
+         giveni={R\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=KDE}{%
+         family={Koditschek},
+         familyi={K\bibinitperiod},
+         given={Daniel\bibnamedelima E},
+         giveni={D\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {The Company of Biologists Ltd}%
+    }
+    \strng{namehash}{FRJKDE1}
+    \strng{fullhash}{FRJKDE1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{F}
+    \field{sortinithash}{F}
+    \field{number}{23}
+    \field{pages}{3325\bibrangedash 3332}
+    \field{title}{Templates and anchors: neuromechanical hypotheses of legged
+  locomotion on land}
+    \field{volume}{202}
+    \field{journaltitle}{Journal of experimental biology}
+    \field{year}{1999}
+  \endentry
+
+  \entry{Seyfarth2006}{article}{}
+    \name{author}{3}{}{%
+      {{hash=GH}{%
+         family={Geyer},
+         familyi={G\bibinitperiod},
+         given={Hartmut},
+         giveni={H\bibinitperiod},
+      }}%
+      {{hash=SA}{%
+         family={Seyfarth},
+         familyi={S\bibinitperiod},
+         given={Andre},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=BR}{%
+         family={Blickhan},
+         familyi={B\bibinitperiod},
+         given={Reinhard},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {The Royal Society}%
+    }
+    \strng{namehash}{GHSABR1}
+    \strng{fullhash}{GHSABR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{G}
+    \field{sortinithash}{G}
+    \field{number}{1603}
+    \field{pages}{2861\bibrangedash 2867}
+    \field{title}{Compliant leg behaviour explains basic dynamics of walking
+  and running}
+    \field{volume}{273}
+    \field{journaltitle}{Proceedings of the Royal Society of London B:
+  Biological Sciences}
+    \field{year}{2006}
+  \endentry
+
+  \entry{McMahon&Cheng1990}{article}{}
+    \name{author}{2}{}{%
+      {{hash=MTA}{%
+         family={McMahon},
+         familyi={M\bibinitperiod},
+         given={Thomas\bibnamedelima A},
+         giveni={T\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=CGC}{%
+         family={Cheng},
+         familyi={C\bibinitperiod},
+         given={George\bibnamedelima C},
+         giveni={G\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Elsevier}%
+    }
+    \strng{namehash}{MTACGC1}
+    \strng{fullhash}{MTACGC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \field{pages}{65\bibrangedash 78}
+    \field{title}{The mechanics of running: how does stiffness couple with
+  speed?}
+    \field{volume}{23}
+    \field{journaltitle}{Journal of biomechanics}
+    \field{year}{1990}
+  \endentry
+
+  \entry{Mochon&McMahon}{article}{}
+    \name{author}{2}{}{%
+      {{hash=MS}{%
+         family={Mochon},
+         familyi={M\bibinitperiod},
+         given={Simon},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=MTA}{%
+         family={McMahon},
+         familyi={M\bibinitperiod},
+         given={Thomas\bibnamedelima A},
+         giveni={T\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Elsevier}%
+    }
+    \strng{namehash}{MSMTA1}
+    \strng{fullhash}{MSMTA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \field{number}{1}
+    \field{pages}{49\bibrangedash 57}
+    \field{title}{Ballistic walking}
+    \field{volume}{13}
+    \field{journaltitle}{Journal of biomechanics}
+    \field{year}{1980}
+  \endentry
+
+  \entry{Pandy2003}{article}{}
+    \name{author}{1}{}{%
+      {{hash=PMG}{%
+         family={Pandy},
+         familyi={P\bibinitperiod},
+         given={Marcus\bibnamedelima G},
+         giveni={M\bibinitperiod\bibinitdelim G\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {The Royal Society}%
+    }
+    \strng{namehash}{PMG1}
+    \strng{fullhash}{PMG1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{P}
+    \field{sortinithash}{P}
+    \field{number}{1437}
+    \field{pages}{1501\bibrangedash 1509}
+    \field{title}{Simple and complex models for studying muscle function in
+  walking}
+    \field{volume}{358}
+    \field{journaltitle}{Philosophical Transactions of the Royal Society of
+  London B: Biological Sciences}
+    \field{year}{2003}
+  \endentry
+
+  \entry{Rummel2010}{article}{}
+    \name{author}{3}{}{%
+      {{hash=RJ}{%
+         family={Rummel},
+         familyi={R\bibinitperiod},
+         given={Juergen},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=BY}{%
+         family={Blum},
+         familyi={B\bibinitperiod},
+         given={Yvonne},
+         giveni={Y\bibinitperiod},
+      }}%
+      {{hash=SA}{%
+         family={Seyfarth},
+         familyi={S\bibinitperiod},
+         given={Andre},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {IOP Publishing}%
+    }
+    \strng{namehash}{RJBYSA1}
+    \strng{fullhash}{RJBYSA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{R}
+    \field{sortinithash}{R}
+    \field{number}{4}
+    \field{pages}{046004}
+    \field{title}{Robust and efficient walking with spring-like legs}
+    \field{volume}{5}
+    \field{journaltitle}{Bioinspiration \& biomimetics}
+    \field{year}{2010}
+  \endentry
+
+  \entry{Strogatz2001}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=SSH}{%
+         family={Strogatz},
+         familyi={S\bibinitperiod},
+         given={Steven\bibnamedelima H},
+         giveni={S\bibinitperiod\bibinitdelim H\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Westview Press}%
+    }
+    \strng{namehash}{SSH1}
+    \strng{fullhash}{SSH1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{title}{Nonlinear Dynamics and Chaos: With Applications to Physics,
+  Biology, Chemistry, and Engineering (Boulder, CO}
+    \field{year}{2001}
+  \endentry
+
+  \entry{Vejdani2015}{inproceedings}{}
+    \name{author}{4}{}{%
+      {{hash=VHR}{%
+         family={Vejdani},
+         familyi={V\bibinitperiod},
+         given={Hamid\bibnamedelima Reza},
+         giveni={H\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+      {{hash=WA}{%
+         family={Wu},
+         familyi={W\bibinitperiod},
+         given={Albert},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=GH}{%
+         family={Geyer},
+         familyi={G\bibinitperiod},
+         given={Hartmut},
+         giveni={H\bibinitperiod},
+      }}%
+      {{hash=HJW}{%
+         family={Hurst},
+         familyi={H\bibinitperiod},
+         given={Jonathan\bibnamedelima W},
+         giveni={J\bibinitperiod\bibinitdelim W\bibinitperiod},
+      }}%
+    }
+    \list{organization}{1}{%
+      {IEEE}%
+    }
+    \strng{namehash}{VHR+1}
+    \strng{fullhash}{VHRWAGHHJW1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{V}
+    \field{sortinithash}{V}
+    \field{booktitle}{Robotics and Automation (ICRA), 2015 IEEE International
+  Conference on}
+    \field{pages}{5101\bibrangedash 5106}
+    \field{title}{Touch-down angle control for spring-mass walking}
+    \field{year}{2015}
+  \endentry
+\endsortlist
 \endinput
