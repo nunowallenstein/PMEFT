@@ -91,7 +91,7 @@
     \field{pages}{1217\bibrangedash 1227}
     \field{title}{The spring-mass model for running and hopping}
     \field{volume}{22}
-    \field{journaltitle}{Journal of biomechanics}
+    \field{journaltitle}{Journal of Biomechanics}
     \field{year}{1989}
   \endentry
 
@@ -189,7 +189,7 @@
     \field{pages}{639\bibrangedash 657}
     \field{title}{The sources of external work in level walking and running.}
     \field{volume}{262}
-    \field{journaltitle}{The Journal of physiology}
+    \field{journaltitle}{The Journal of Physiology}
     \field{year}{1976}
   \endentry
 
@@ -222,7 +222,7 @@
     \field{title}{Templates and anchors: neuromechanical hypotheses of legged
   locomotion on land}
     \field{volume}{202}
-    \field{journaltitle}{Journal of experimental biology}
+    \field{journaltitle}{Journal of Experimental Biology}
     \field{year}{1999}
   \endentry
 
@@ -294,7 +294,7 @@
     \field{title}{The mechanics of running: how does stiffness couple with
   speed?}
     \field{volume}{23}
-    \field{journaltitle}{Journal of biomechanics}
+    \field{journaltitle}{Journal of Biomechanics}
     \field{year}{1990}
   \endentry
 
@@ -326,7 +326,7 @@
     \field{pages}{49\bibrangedash 57}
     \field{title}{Ballistic walking}
     \field{volume}{13}
-    \field{journaltitle}{Journal of biomechanics}
+    \field{journaltitle}{Journal of Biomechanics}
     \field{year}{1980}
   \endentry
 
@@ -415,7 +415,7 @@
     \field{sortinit}{S}
     \field{sortinithash}{S}
     \field{title}{Nonlinear Dynamics and Chaos: With Applications to Physics,
-  Biology, Chemistry, and Engineering (Boulder, CO}
+  Biology, Chemistry, and Engineering (Boulder, CO)}
     \field{year}{2001}
   \endentry
 
@@ -455,8 +455,8 @@
     \field{labeltitlesource}{title}
     \field{sortinit}{V}
     \field{sortinithash}{V}
-    \field{booktitle}{Robotics and Automation (ICRA), 2015 IEEE International
-  Conference on}
+    \field{booktitle}{2015 IEEE International Conference on Robotics and
+  Automation (ICRA),}
     \field{pages}{5101\bibrangedash 5106}
     \field{title}{Touch-down angle control for spring-mass walking}
     \field{year}{2015}

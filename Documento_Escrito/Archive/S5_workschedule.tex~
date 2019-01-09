@@ -1,0 +1,12 @@
+In this section with Table \ref{timeschedule} I present an overview of the work to be done throught this thesis.
+
+\begin{table}[]
+\begin{tabular}{c|cccccccc}
+ & Fev & Mar & April & May & June & July & August & Sept \\ \hline
+Refining the stability analysis of the two legs walking model & \cellcolor[HTML]{C0C0C0} &  &  &  &  &  &  &  \\
+Development and analysis of the one leg two-springs model (walking and running) &  & \cellcolor[HTML]{C0C0C0} & \cellcolor[HTML]{C0C0C0} &  &  &  &  &  \\
+Development and analysis of the two leg two-springs model (walking and running) &  &  &  & \cellcolor[HTML]{C0C0C0} & \cellcolor[HTML]{C0C0C0} & \cellcolor[HTML]{C0C0C0} &  &  \\
+Thesis writting &  &  &  &  &  &  & \cellcolor[HTML]{C0C0C0} & \cellcolor[HTML]{C0C0C0}
+\end{tabular}
+\label{timeschedule}
+\end{table}
