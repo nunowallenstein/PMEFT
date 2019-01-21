@@ -44,6 +44,9 @@
 \usepackage{graphicx} % takes care of graphic including machinery
 \usepackage{graphics} 
 \usepackage{float}
+\usepackage{colortbl}
+\usepackage{tikz}
+\usepackage{booktabs}
 %\usepackage[margin=1in,letterpaper]{geometry}% decreases margins
 %\usepackage{cite} % takes care of citations
 
@@ -107,7 +110,7 @@
   \ddot{y}=-g.
   \end{equation}
 \end{block}
-with $\omega=\sqrt{k/m}$, the natural frequency of the spring
+with $\omega=\sqrt{k/m}$, the natural frequency of the spring and $l$ rest length of the spring. 
 \end{frame}
 \subsection{Walking model}
 \begin{frame}{Walking model}
@@ -186,7 +189,7 @@ Since the system is energetically conservative we can change the initial velocit
   
 \item $l_0=1 m$
 
-\item  $k=14000$
+\item  $k=14000 N/m$
 
  \end{itemize}
 
@@ -200,9 +203,11 @@ Total number of configurations= $40 \times 30 \times 25 = 30000$
 
 \begin{frame}{Survival step configurations}
   Out of the 30000 configurations in the parameter space, only 8195 were able to complete 2 strides. Of this subset of points, 11 fixed points were found, 5 stable and 6 unstable.
+  \vspace{0.25 cm}
   
   From here a survival test is applied to each of the 8195 configurations that completed 2 strides by incrementing steps instead of strides.
-
+  \vspace{0.25 cm}
+  
   If the simulation fails, the maximum number of steps was assigned to that configuration.
 \end{frame}
 
@@ -212,12 +217,45 @@ Total number of configurations= $40 \times 30 \times 25 = 30000$
 
 
 \end{frame}
+
+\begin{frame}{Touch down control policy}
+  Defining this time $\psi_n=(y_n,\beta_n)$, and an equilibrium state $(\psi^*,\theta)$ with $\psi^*=(y^*,beta^*)$ the desired poincare section, if we find the combination, 
+  \begin{equation}  
+  A(\psi_n,\theta_n)=\psi_{n+1},
+  \label{eq.psi1}
+  \end{equation}
+\begin{equation}
+  A(\psi_{n+1},\theta_{n+1})=\psi^*.
+  \label{eq.psi+1}
+\end{equation}
+
+
+\vspace{0.5 cm}
+
+
+ \begin{flushleft} 
+   The angle of attack is given by,
+   \end{flushleft}
+\begin{equation}
+  \theta_n=\left.A^{-1}\right|_{\psi_n}(\psi_{n+1})
+\end{equation}
+\end{frame}
+
+\begin{frame}
+  \centering
+  \includegraphics[width=0.7\textwidth]{AdaptiveSteps.png}
+
+  Credit of the image given to: Hamid Reza Vejdani et al. “Touch-down angle control for spring-mass walking”,
+International Conference on Robotics and Automation (ICRA), IEEE (2015), 5101–5106.
+  \end{frame}
+
 \section{One knee model}
 \subsection{Running/hopping}
 \begin{frame}{Running and hopping model - One knee}
   \centering
     \includegraphics[width=0.6\textwidth]{initialphase.png}
 \end{frame}
+
 
 \begin{frame}{Running and hopping model - One knee}
   \centering
@@ -230,6 +268,17 @@ Total number of configurations= $40 \times 30 \times 25 = 30000$
 \end{frame}
 
 \section{Summary}
-
+\begin{frame}
+  \resizebox{\linewidth}{!}{
+                \begin{tabular}{c|cccccccc}
+                  & Fev & Mar & April & May & June & July & August & Sept \\ \hline
+                  \begin{tabular}[c]{@{}c@{}}Refining the stability analysis \\ of the two legs walking model\end{tabular} & \cellcolor[HTML]{C0C0C0} &  &  &  &  &  &  &  \\ \hline
+                    \begin{tabular}[c]{@{}c@{}}Development and analysis of the one leg \\ two-springs model (walking and running)\end{tabular} &  & \cellcolor[HTML]{C0C0C0} & \cellcolor[HTML]{C0C0C0} &  &  &  &  &  \\ \hline
+                    \begin{tabular}[c]{@{}c@{}}Development and analysis of the two leg\\  two-springs model (walking and running)\end{tabular} &  &  &  & \cellcolor[HTML]{C0C0C0} & \cellcolor[HTML]{C0C0C0} & \cellcolor[HTML]{C0C0C0} &  &  \\ \hline
+                    Thesis writting &  &  &  &  &  &  & \cellcolor[HTML]{C0C0C0} & \cellcolor[HTML]{C0C0C0}
+                \end{tabular}
+         }
+            
+\end{frame}
 
 \end{document}
