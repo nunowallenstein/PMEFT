@@ -1,0 +1,7 @@
+\beamer@endinputifotherversion {3.36pt}
+\select@language {english}
+\beamer@sectionintoc {1}{No knee models}{2}{0}{1}
+\beamer@subsectionintoc {1}{1}{Running/hopping}{2}{0}{1}
+\beamer@subsectionintoc {1}{2}{Walking model}{4}{0}{1}
+\beamer@sectionintoc {2}{One knee model}{10}{0}{2}
+\beamer@subsectionintoc {2}{1}{Running/hopping}{10}{0}{2}
